@@ -1,2 +1,2 @@
 # qc
-项目仓库
+project for to learn
